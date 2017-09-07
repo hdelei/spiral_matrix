@@ -64,5 +64,5 @@ class Matrix:
 #create an empty two-dimensional matrix 
 matrix = Matrix(6, 3)
 
-#print an array of two spiral dimensions in ascending order from number 1
+#print an array of two dimensions spiral in ascending order from number 1
 matrix.print_spiral()
